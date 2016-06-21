@@ -2800,8 +2800,11 @@ AddOutputFilter chunkFilter
 				</Item>
 			</Item>
 		</Item>
+		<Item Name="myRIO_Brig_RT__Case_Exp_State_initBlock__v2.vi" Type="VI" URL="../myRIO_Brig_RT__Case_Exp_State_initBlock__v2.vi"/>
 		<Item Name="myRIO_BRig_RT_v0,80.vi" Type="VI" URL="../myRIO_BRig_RT_v0,80.vi"/>
 		<Item Name="myRIO_BRig_RT_v0,80__PortC.vi" Type="VI" URL="../myRIO_BRig_RT_v0,80__PortC.vi"/>
+		<Item Name="myRIO_BRig_RT_v0,81__PortC.vi" Type="VI" URL="../myRIO_BRig_RT_v0,81__PortC.vi"/>
+		<Item Name="test_myRIO_Exp_tLoop.vi" Type="VI" URL="../test_myRIO_Exp_tLoop.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="AI IRQ FPGA Reference.ctl" Type="VI" URL="/&lt;vilib&gt;/myRIO/Common/Instrument Driver Framework/myRIO v1.0/IRQ/typedefs/AI IRQ FPGA Reference.ctl"/>
