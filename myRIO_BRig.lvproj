@@ -381,9 +381,12 @@ AddOutputFilter chunkFilter
 			<Item Name="myRIO_BRig_RT__Case_Exp_State_initTrial_LC_ENL1__v4.vi" Type="VI" URL="../myRIO_BRig_RT__Case_Exp_State_initTrial_LC_ENL1__v4.vi"/>
 			<Item Name="myRIO_BRig_RT__Case_Exp_State_initTrial_LC_Sel__v4.vi" Type="VI" URL="../myRIO_BRig_RT__Case_Exp_State_initTrial_LC_Sel__v4.vi"/>
 			<Item Name="myRIO_BRig_RT__Case_Exp_State_Reward.vi" Type="VI" URL="../myRIO_BRig_RT__Case_Exp_State_Reward.vi"/>
+			<Item Name="myRIO_BRig_RT__Case_Exp_State_Reward__v2.vi" Type="VI" URL="../myRIO_BRig_RT__Case_Exp_State_Reward__v2.vi"/>
 			<Item Name="myRIO_BRig_RT__Case_Exp_State_RewardPost.vi" Type="VI" URL="../myRIO_BRig_RT__Case_Exp_State_RewardPost.vi"/>
 			<Item Name="myRIO_BRig_RT__Case_Exp_State_Selection__v4.vi" Type="VI" URL="../myRIO_BRig_RT__Case_Exp_State_Selection__v4.vi"/>
+			<Item Name="myRIO_BRig_RT__Case_Exp_State_Selection__v5.vi" Type="VI" URL="../myRIO_BRig_RT__Case_Exp_State_Selection__v5.vi"/>
 			<Item Name="myRIO_BRig_RT__Case_Exp_State_SelectPre__v4.vi" Type="VI" URL="../myRIO_BRig_RT__Case_Exp_State_SelectPre__v4.vi"/>
+			<Item Name="myRIO_BRig_RT__Case_Exp_State_SelectPre__v5.vi" Type="VI" URL="../myRIO_BRig_RT__Case_Exp_State_SelectPre__v5.vi"/>
 			<Item Name="myRIO_BRig_RT__Case_Exp_State_Timeout.vi" Type="VI" URL="../myRIO_BRig_RT__Case_Exp_State_Timeout.vi"/>
 			<Item Name="myRIO_BRig_RT__Case_Exp_State_Wrong.vi" Type="VI" URL="../myRIO_BRig_RT__Case_Exp_State_Wrong.vi"/>
 			<Item Name="myRIO_BRig_RT__Case_Exp_subState_LC.vi" Type="VI" URL="../myRIO_BRig_RT__Case_Exp_subState_LC.vi"/>
@@ -2830,6 +2833,8 @@ AddOutputFilter chunkFilter
 		</Item>
 		<Item Name="myRIO_BRig_RT_v0,84.vi" Type="VI" URL="../myRIO_BRig_RT_v0,84.vi"/>
 		<Item Name="myRIO_BRig_RT_v0,84__PortC.vi" Type="VI" URL="../myRIO_BRig_RT_v0,84__PortC.vi"/>
+		<Item Name="myRIO_BRig_RT_v0,85.vi" Type="VI" URL="../myRIO_BRig_RT_v0,85.vi"/>
+		<Item Name="myRIO_BRig_RT_v0,85__PortC.vi" Type="VI" URL="../myRIO_BRig_RT_v0,85__PortC.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="AI IRQ FPGA Reference.ctl" Type="VI" URL="/&lt;vilib&gt;/myRIO/Common/Instrument Driver Framework/myRIO v1.0/IRQ/typedefs/AI IRQ FPGA Reference.ctl"/>
