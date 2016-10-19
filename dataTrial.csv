@@ -1,0 +1,59 @@
+Index,Tag,Header,Value Range,Description
+0,nTrial,nTrial,int,"Current trial, total"
+1,iSpout,iSpout,0 (left),Left spout or right spout    (ignore if NonSpecific Lick==TRUE)
+2,iBlock,iBlock,1 (right),Current block
+3,iTrial,iTrial,int,"Current trial, block"
+4,iTrial_post,iTrial_post,int,"Current trial, after switch trial"
+5,iReward,iReward,int,"Current reward count, 0 if not reward"
+6,iError,iError,int,"Current error count, 0 if not error"
+7,I_listeningRig,I_listeningRig,int,Send TTL high signal to listening rig?
+8,sCue,sCue,0 (F) or 1 (T),Cue state
+9,T_Cue_Audio,T_Cue_Audio,0 (error)    1 (audio)    2 (led)    3 (audio & led),Time duration for audio cue
+10,T_Cue_LED,T_Cue_LED,int,Time duration for LED cue
+11,sTrial_start,sTrial_start,int,State at trial start
+12,sTrial_end,sTrial_end,0 (unknown)    1 (first)    2 (prereward)    3 (postreward),State at trial end    (NFE = Non Forced Error)    (ImmSwitch = Immediate Switch)
+13,sSelection,sSelection,0 (unknown)    1 (rebiasing)    2 (switch)    3 (biasing)    4 (NFE)    5 (ImmSwitch),Selection state
+14,tSelection,tSelection,0 (unknown)    1 (reward)    2 (wrong)    3 (timeout),Time at selection
+15,I_anySelect_L,I_anySelect_L,0 (F) or 1 (T),"For non-specific lick detection, the first selection was LEFT spout"
+16,I_anySelect_R,I_anySelect_R,0 (F) or 1 (T),"For non-specific lick detection, the first selection was RIGHT spout"
+17,I_giveReward,I_giveReward,0 (F) or 1 (T),Dispense water during reward state?
+18,T_Reward,T_Reward,int,Time duration for reward delivery    (not including consumption state)
+19,L_power_l1,L_power_l1,int,Laser Power for laser1
+20,L_power_l2,L_power_l2,int,Laser Power for laser2
+21,L_T_l1,L_T_l1,int,Laser duration for laser1
+22,L_T_l2,L_T_l2,int,Laser duration for laser2
+23,T_ENL,T_ENL,int,Time duration for ENL
+24,n_ENL,n_ENL,int,Number of ENL cycles
+25,L_ENL_event_n_l1,L_ENL_event_n_l1,int,Number of laser events during ENL (laser1)
+26,L_ENL_event_n_l2,L_ENL_event_n_l2,int,Number of laser events during ENL (laser2)
+27,L_ENL_trig_n_l1,L_ENL_trig_n_l1,int,Number of laser triggers during ENL (laser1)
+28,L_ENL_trig_n_l2,L_ENL_trig_n_l2,int,Number of laser triggers during ENL (laser2)
+29,L_ENL_event_I_l1,L_ENL_event_I_l1,0 (F) or 1 (T),"Laser event during ENL (laser1) ?    If yes, the laser LED will be triggered"
+30,L_ENL_event_I_l2,L_ENL_event_I_l2,0 (F) or 1 (T),"Laser event during ENL (laser2) ?    If yes, the laser LED will be triggered "
+31,L_ENL_trig_I_l1,L_ENL_trig_I_l1,0 (F) or 1 (T),"If laser LED is triggered for ENL, will laser also be triggered (laser1) ?"
+32,L_ENL_trig_I_l2,L_ENL_trig_I_l2,0 (F) or 1 (T),"If laser LED is triggered for ENL, will laser also be triggered (laser2) ?"
+33,n_Cue,n_Cue,int,Number of Cue cycles
+34,L_Cue_event_n_l1,L_Cue_event_n_l1,int,Number of laser events during Cue (laser1)
+35,L_Cue_event_n_l2,L_Cue_event_n_l2,int,Number of laser events during Cue (laser2)
+36,L_Cue_trig_n_l1,L_Cue_trig_n_l1,int,Number of laser triggers during Cue (laser1)
+37,L_Cue_trig_n_l2,L_Cue_trig_n_l2,int,Number of laser triggers during Cue (laser2)
+38,L_Cue_event_I_l1,L_Cue_event_I_l1,0 (F) or 1 (T),"Laser event during Cue (laser1) ?    If yes, the laser LED will be triggered"
+39,L_Cue_event_I_l2,L_Cue_event_I_l2,0 (F) or 1 (T),"Laser event during Cue (laser2) ?    If yes, the laser LED will be triggered"
+40,L_Cue_trig_I_l1,L_Cue_trig_I_l1,0 (F) or 1 (T),"If laser LED is triggered for Cue, will laser also be triggered (laser1) ?"
+41,L_Cue_trig_I_l2,L_Cue_trig_I_l2,0 (F) or 1 (T),"If laser LED is triggered for Cue, will laser also be triggered (laser2) ?"
+42,L_Sel_event_n_l1,L_Sel_event_n_l1,0 or 1,Laser events during Selection (laser1)
+43,L_Sel_event_n_l2,L_Sel_event_n_l2,0 or 1,Laser events during Selection (laser2)
+44,L_Sel_trig_n_l1,L_Sel_trig_n_l1,0 or 1,Laser triggers during Selection (laser1)
+45,L_Sel_trig_n_l2,L_Sel_trig_n_l2,0 or 1,Laser triggers during Selection (laser2)
+46,L_Sel_event_I_l1,L_Sel_event_I_l1,0 (F) or 1 (T),"Laser event during Selection State (laser1) ?    If yes, the laser LED will be triggered"
+47,L_Sel_event_I_l2,L_Sel_event_I_l2,0 (F) or 1 (T),"Laser event during Selection State (laser2) ?    If yes, the laser LED will be triggered"
+48,L_Sel_trig_I_l1,L_Sel_trig_I_l1,0 (F) or 1 (T),"If laser LED is triggered for Selection state, will laser also be triggered (laser1) ?"
+49,L_Sel_trig_I_l2,L_Sel_trig_I_l2,0 (F) or 1 (T),"If laser LED is triggered for Selection state, will laser also be triggered (laser2) ?"
+50,L_Rew_event_I_l1,L_Rew_event_I_l1,0 (F) or 1 (T),"Laser event during Reward state (laser1) ?    If yes, the laser LED will be triggered"
+51,L_Rew_event_I_l2,L_Rew_event_I_l2,0 (F) or 1 (T),"Laser event during Reward state (laser2) ?    If yes, the laser LED will be triggered"
+52,L_Rew_trig_I_l1,L_Rew_trig_I_l1,0 (F) or 1 (T),"If laser LED is triggered for Reward state, will laser also be triggered (laser1) ?"
+53,L_Rew_trig_I_l2,L_Rew_trig_I_l2,0 (F) or 1 (T),"If laser LED is triggered for Reward state, will laser also be triggered (laser2) ?"
+54,L_Wro_event_I_l1,L_Wro_event_I_l1,0 (F) or 1 (T),"Laser event during Wrong selection (laser1) ?    If yes, the laser LED will be triggered"
+55,L_Wro_event_I_l2,L_Wro_event_I_l2,0 (F) or 1 (T),"Laser event during Wrong selection (laser2) ?    If yes, the laser LED will be triggered"
+56,L_Wro_trig_I_l1,L_Wro_trig_I_l1,0 (F) or 1 (T),"If laser LED is triggered for Wrong selection, will laser also be triggered (laser1) ?"
+57,L_Wro_trig_I_l2,L_Wro_trig_I_l2,0 (F) or 1 (T),"If laser LED is triggered for Wrong selection, will laser also be triggered (laser2) ?"

@@ -1,0 +1,82 @@
+Index,Tag,Header,Value Range,Description
+0,FPGA_count2ms,FPGA_count2ms,double,Conversion factor of how many FPGA counts will give one millisecond
+1,LED_baseline_Cue,LED_baseline_Cue,0 (L) or 1 (H),Baseline (low or high) for Cue LED
+2,LED_baseline_l1,LED_baseline_l1,0 (L) or 1 (H),Baseline (low or high) for laser1 LED
+3,LED_baseline_l2,LED_baseline_l2,0 (L) or 1 (H),Baseline (low or high) for laser2 LED
+4,I_anySelect,I_anySelect,0 (F) or 1 (T),"For non-specific lick detection, any lick gives reward"
+5,I_TUR,I_TUR,0 (F) or 1 (T),Ignore wrong selection
+6,BUR_min,BUR_min,int,"Block until reward, min"
+7,BUR_max,BUR_max,int,"Block until reward, max"
+8,TPB_min_L,TPB_min_L,int,"Trials per block, min left"
+9,TPB_min_R,TPB_min_R,int,"Trials per block, min right"
+10,TPB_max_L,TPB_max_L,int,"Trials per block, max left"
+11,TPB_max_R,TPB_max_R,int,"Trials per block, max right"
+12,CueSwitch_First,CueSwitch_First,0 (Audio)    1 (LED)    2 (Audio or LED)    3 (Audio and LED),What type of Cue to use for First trials    (Trial Start type = First)
+13,CueSwitch_PreR,CueSwitch_PreR,0 (Audio)    1 (LED)    2 (Audio or LED)    3 (Audio and ,What type of Cue to use for PreReward trials    (Trial Start type = PreReward)
+14,CueSwitch_PostR,CueSwitch_PostR,0 (Audio)    1 (LED)    2 (Audio or LED)    3 (Audio and ,What type of Cue to use for PostReward trials    (Trial Start type = PostReward)
+15,CueSwitch_Prob_First,CueSwitch_Prob_First,0-100,"If CueSwitch is (Audior or LED), what is the probability of using LED for each trial    (Trial Start type = First)"
+16,CueSwitch_Prob_PreR,CueSwitch_Prob_PreR,0-100,"If CueSwitch is (Audior or LED), what is the probability of using LED for each trial    (Trial Start type = PreReward)"
+17,CueSwitch_Prob_PostR,CueSwitch_Prob_PostR,0-100,"If CueSwitch is (Audior or LED), what is the probability of using LED for each trial    (Trial Start type = PostReward)"
+18,CueSwitch_Count_First,CueSwitch_Count_First,int (0 = all),"If CueSwitch is (Audior or LED), how many trials can potentially be LED before using only Audio?    (Trial Start type = First)"
+19,CueSwitch_Count_PreR,CueSwitch_Count_PreR,int (0 = all),"If CueSwitch is (Audior or LED), how many trials can potentially be LED before using only Audio?    (Trial Start type = PreReward)"
+20,CueSwitch_Count_PostR,CueSwitch_Count_PostR,int (0 = all),"If CueSwitch is (Audior or LED), how many trials can potentially be LED before using only Audio?    (Trial Start type = PostReward)"
+21,Audio_amp_L,Audio_amp_L,0-32000,"Audio amplitude, left"
+22,Audio_amp_R,Audio_amp_R,0-32000,"Audio amplitude, right"
+23,Audio_freq_L,Audio_freq_L,0-15,"Audio frequency, left [kHz]"
+24,Audio_freq_R,Audio_freq_R,0-15,"Audio frequency, right [kHz]"
+25,Audio_pattern_L,Audio_pattern_L,int,"Audio pattern, left"
+26,Audio_pattern_R,Audio_pattern_R,int,"Audio pattern, right"
+27,CueLed_freq,CueLed_freq,int,Cue LED frequency [Hz]
+28,CueLed_Tpeak,CueLed_Tpeak,int,Cue LED peak width
+29,SolenoidProb_L,SolenoidProb_L,int,"Probability of water during reward state, left"
+30,SolenoidProb_R,SolenoidProb_R,int,"Probability of water during reward state, right"
+31,LaserSwitch,LaserSwitch,0 (no laser)    1 (laser1)    2 (laser2)    3 (l1 or l2),Which laser is to be used?
+32,LaserSwitch_Prob_l1,LaserSwitch_Prob_l1,0-100,"If LaserSwitch is (l1 or l2), what is the probability of using laser1?"
+33,L_power_min_l1,L_power_min_l1,int,"Laser power [V], min laser1"
+34,L_power_min_l2,L_power_min_l2,int,"Laser power [V], min laser2"
+35,L_power_max_l1,L_power_max_l1,int,"Laser power [V], max laser1"
+36,L_power_max_l2,L_power_max_l2,int,"Laser power [V], max laser2"
+37,L_power_step_l1,L_power_step_l1,int,"Laser power [V], step laser1"
+38,L_power_step_l2,L_power_step_l2,int,"Laser power [V], step laser2"
+39,L_T_l1,L_T_l1,int,"Laser duration, laser1"
+40,L_T_l2,L_T_l2,int,"Laser duration, laser2"
+41,L_Tpeak_l1,L_Tpeak_l1,int,"Laser peak width, laser1"
+42,L_Tpeak_l2,L_Tpeak_l2,int,"Laser peak width, laser2"
+43,L_freq_l1,L_freq_l1,int,"Laser frequency [Hz], laser1"
+44,L_freq_l2,L_freq_l2,int,"Laser frequency [Hz], laser2"
+45,L_Tshutter_l1,L_Tshutter_l1,int,"Laser shutter open time, laser1"
+46,L_Tshutter_l2,L_Tshutter_l2,int,"Laser shutter open time, laser2"
+47,T_ENL_min,T_ENL_min,int,"Time duration for ENL state, min"
+48,T_ENL_max,T_ENL_max,int,"Time duration for ENL state, max"
+49,T_ENL_step,T_ENL_step,int,"Time duration for ENL state, step"
+50,T_ENLPenalty,T_ENLPenalty,int,Time duration for ENL Penalty state
+51,T_Cue_Audio_min,T_Cue_Audio_min,int,"Time duration for Audio Cue, min"
+52,T_Cue_Audio_max,T_Cue_Audio_max,int,"Time duration for Audio Cue, max"
+53,T_Cue_Audio_step,T_Cue_Audio_step,int,"Time duration for Audio Cue, step"
+54,T_Cue_Led_min,T_Cue_Led_min,int,"Time duration for LED Cue, min"
+55,T_Cue_Led_max,T_Cue_Led_max,int,"Time duration for LED Cue, max"
+56,T_Cue_Led_step,T_Cue_Led_step,int,"Time duration for LED Cue, step"
+57,T_CuePenalty,T_CuePenalty,int,Time duration for Cue Penalty state
+58,T_Selection,T_Selection,int,Time duration for Selection state
+59,T_Reward_min_L,T_Reward_min_L,int,"Time duration for Reward state, min left"
+60,T_Reward_min_R,T_Reward_min_R,int,"Time duration for Reward state, min right"
+61,T_Reward_max_L,T_Reward_max_L,int,"Time duration for Reward state, max left"
+62,T_Reward_max_R,T_Reward_max_R,int,"Time duration for Reward state, max right"
+63,T_Reward_step_L,T_Reward_step_L,int,"Time duration for Reward state, step left"
+64,T_Reward_step_R,T_Reward_step_R,int,"Time duration for Reward state, step right"
+65,T_RewardPost,T_RewardPost,int,Time duration for RewardPost (consumption)
+66,T_Wrong,T_Wrong,int,Time duration for Wrong selection state
+67,T_Timeout,T_Timeout,int,Time duration for selection timeout state
+68,Loop_c_Cue,Loop_c_Cue,int,Panel Loop - Cue - counter
+69,Loop_T_Cue,Loop_T_Cue,int,Panel Loop - Cue - threshold
+70,Loop_c_ExpStruct,Loop_c_ExpStruct,int,Panel Loop - ExpStructure - counter
+71,Loop_T_ExpStruct,Loop_T_ExpStruct,int,Panel Loop - ExpStructure - threshold
+72,L_Ttotal_l1,L_Ttotal_l1,int,L_T_l1 + L_Tshutter_l1
+73,L_Ttotal_l1,L_Ttotal_l1,int,L_T_l2 + L_Tshutter_l2
+74,FreeReward_Switch,FreeReward_Switch,int,Toggle FreeReward
+75,FreeReward_Count1,FreeReward_Count1,int,Count bad trials (ReBiasing) before FreeReward
+76,FreeReward_Count2,FreeReward_Count2,int,Count bad trials (NonForcedError) before FreeReward
+77,ClosedLoop_LaserHold_l1,ClosedLoop_LaserHold_l1,0 (off) 1 (on),(ClosedLoop operation) Hold laser 1 off at start
+78,ClosedLoop_LaserHold_l1_I,ClosedLoop_LaserHold_l1_I,0 (off) 1 (on),(ClosedLoop operation) Release laser 1
+79,ClosedLoop_LaserHold_l2,ClosedLoop_LaserHold_l2,0 (off) 1 (on),(ClosedLoop operation) Hold laser 2 off at start
+80,ClosedLoop_LaserHold_l2_I,ClosedLoop_LaserHold_l2_I,0 (off) 1 (on),(ClosedLoop operation) Release laser 2

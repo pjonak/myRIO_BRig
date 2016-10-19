@@ -1,0 +1,8 @@
+Index,Tag,Header,Value Range,Description
+0,nTrial,nTrial,int,"Current trial, total"
+1,iBlock,iBlock,int,Current block
+2,iTrial,iTrial,int,"Current trial, block"
+3,iSpout,iSpout,0 (unknown)    1 (left)    2 (right)    3 (left and right),Lick detected on which spout
+4,sTrial_start,sTrial_start,enum,"Trial state, when lick was detected"
+5,sTrial_end,sTrial_end,enum,"Trial state, after lick was detected"
+6,tState,tState,int,"Record current time at lick. Only relevant to states which react to a lick. Specifically, ENL will become ENL_Penalty, Cue will become Cue_Penalty, and Selection will become Reward or Wrong"

@@ -1,0 +1,48 @@
+Index,Tag,Header,Value Range,Description
+0,nTrial,nTrial,int,"Current trial, total"
+1,iBlock,iBlock,int,Current block
+2,iTrial,iTrial,int,"Current trial, block"
+3,iSpout,iSpout,0 (left)    1 (right),Left spout or right spout
+4,targetBUR,targetBUR,int,"Target number of rewards before new block, ignore if 0"
+5,targetTPB,targetTPB,int,"Target number of trials before new block, ignore if targetBUR is not 0"
+6,idxDataBlock,idxDataBlock,int,Current index for dataBlock
+7,idxDataLick,idxDataLick,int,Current index for dataLick
+8,idxDataTrial,idxDataTrial,int,Current index for dataTrial
+9,RunTime,RunTime,int,How long has the experiment been running?
+10,I_giveReward,I_giveReward,0 (F) or 1 (T),Give water during reward state?
+11,c_generic,c_generic,int,Generic counter to keep track of time
+12,T_generic,T_generic,int,Generic threshold for counter
+13,T_cue,T_cue,int,Counter threshold for Cue
+14,t_Selection,t_Selection,int,Counter value at end of Selection state
+15,s_Selection,s_Selection,0 (unknown)    1 (reward)    2 (wrong)    3 (timeout),Selection state
+16,I_anySelect_L,I_anySelect_L,0 (F) or 1 (T),"For non-specific lick detection, the first selection was LEFT spout"
+17,I_anySelect_R,I_anySelect_R,0 (F) or 1 (T),"For non-specific lick detection, the first selection was RIGHT spout"
+18,CueSwitch_Audio,CueSwitch_Audio,0 (off) or 1 (on),Audio Cue is active on this trial
+19,CueSwitch_Led,CueSwitch_Led,0 (off) or 1 (on),LED Cue is active on this trial
+20,I_Cue_Audio,I_Cue_Audio,0 (off) or 1 (on),Triggered during Cue (Audio)?
+21,I_Cue_LED,I_Cue_LED,0 (off) or 1 (on),Triggered during Cue (LED)?
+22,T_Cue_Audio_start,T_Cue_Audio_start,int,Cue Audio start time
+23,T_Cue_Audio_end,T_Cue_Audio_end,int,Cue Audio end time
+24,T_Cue_LED_start,T_Cue_LED_start,int,Cue LED start time
+25,T_Cue_LED_end,T_Cue_LED_end,int,Cue LED end time
+26,LaserSwitch_l1,LaserSwitch_l1,0 (off) or 1 (on),Laser1 is active on this trial
+27,LaserSwitch_l2,LaserSwitch_l2,0 (off) or 1 (on),Laser2 is active on this trial
+28,L_ENL_I_l1,L_ENL_I_l1,0 (off) or 1 (on),Triggered during ENL (laser1)?
+29,L_ENL_I_l2,L_ENL_I_l2,0 (off) or 1 (on),Triggered during ENL (laser2)?
+30,L_ENL_T_start_l1,L_ENL_T_start_l1,int,Start time during ENL for laser1
+31,L_ENL_T_start_l2,L_ENL_T_start_l2,int,Start time during ENL for laser2
+32,L_ENL_T_end_l1,L_ENL_T_end_l1,int,End time during ENL for laser1
+33,L_ENL_T_end_l2,L_ENL_T_end_l2,int,End time during ENL for laser2
+34,L_Cue_I_l1,L_Cue_I_l1,0 (off) or 1 (on),Triggered during Cue (laser1)?
+35,L_Cue_I_l2,L_Cue_I_l2,0 (off) or 1 (on),Triggered during Cue (laser2)?
+36,L_Cue_T_start_l1,L_Cue_T_start_l1,int,Start time during Cue for laser1
+37,L_Cue_T_start_l2,L_Cue_T_start_l2,int,Start time during Cue for laser2
+38,L_Cue_T_end_l1,L_Cue_T_end_l1,int,End time during Cue for laser1
+39,L_Cue_T_end_l2,L_Cue_T_end_l2,int,End time during Cue for laser2
+40,L_Sel_I_l1,L_Sel_I_l1,0 (off) or 1 (on),Triggered during Selection (laser1)?
+41,L_Sel_I_l2,L_Sel_I_l2,0 (off) or 1 (on),Triggered during Selection (laser2)?
+42,L_Sel_T_start_l1,L_Sel_T_start_l1,int,Start time during Selection for laser1
+43,L_Sel_T_start_l2,L_Sel_T_start_l2,int,Start time during Selection for laser2
+44,L_Sel_T_end_l1,L_Sel_T_end_l1,int,End time during Selection for laser1
+45,L_Sel_T_end_l2,L_Sel_T_end_l2,int,End time during Selection for laser2
+46,FreeReward_c,FreeReward_c,,

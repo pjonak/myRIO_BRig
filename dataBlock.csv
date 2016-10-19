@@ -1,0 +1,34 @@
+Index,Tag,Header,Value Range,Description
+0,iBlock,iBlock,int,Current block
+1,iSpout,iSpout,0 (left)   1 (right),Left spout or right spout    (ignore if NonSpecific Lick==TRUE)
+2,TPB_target,TPB_target,int,Target number of trials per block    (ignore if targeting the number of rewards)
+3,BUR_target,BUR_target,int,"Target number of rewards per block    (0 = off, targeting # trials)"
+4,nTrial,nTrial,int,"Number of trials, block"
+5,nTrial_post,nTrial_post,int,"Number of trials after first reward, block"
+6,nReward,nReward,int,Number of rewards
+7,nWrong,nWrong,int,Number of wrong selections
+8,nTimeout,nTimeout,int,Number of timeouts
+9,T2R,T2R,int,Number of non-reward trials before first reward
+10,BTPR,BTPR,int,Number of non-reward trials after first reward
+11,nTrial_biasing,nTrial_biasing,,
+12,nTrial_rebiasing,nTrial_rebiasing,,
+13,nTrial_NFE,nTrial_NFE,,
+14,c_nTrial,c_nTrial,,
+15,c_nTrial_biasing,c_nTrial_biasing,,
+16,c_nTrial_rebiasing,c_nTrial_rebiasing,,
+17,c_nTrial_NFE,c_nTrial_NFE,,
+18,c_nReward_total,c_nReward_total,,
+19,c_nReward_total_L,c_nReward_total_L,,
+20,c_nReward_total_R,c_nReward_total_R,,
+21,c_nWrong,c_nWrong,,
+22,c_nWrong_L,c_nWrong_L,,
+23,c_nWrong_R,c_nWrong_R,,
+24,c_nTimeout,c_nTimeout,,
+25,c_nTimeout_L,c_nTimeout_L,,
+26,c_nTimeout_R,c_nTimeout_R,,
+27,c_T2R,c_T2R,,
+28,c_BTPR,c_BTPR,,
+29,c_T2R_L,c_T2R_L,,
+30,c_T2R_R,c_T2R_R,,
+31,c_BTPR_L,c_BTPR_L,,
+32,c_BTPR_R,c_BTPR_R,,
