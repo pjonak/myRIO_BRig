@@ -176,6 +176,7 @@
 				<Item Name="BRig_dataExp_FreeReward_Switch.vi" Type="VI" URL="../BRig_dataExp_FreeReward_Switch.vi"/>
 				<Item Name="BRig_dataExp_I_anySelect.vi" Type="VI" URL="../BRig_dataExp_I_anySelect.vi"/>
 				<Item Name="BRig_dataExp_I_Cue2.vi" Type="VI" URL="../BRig_dataExp_I_Cue2.vi"/>
+				<Item Name="BRig_dataExp_I_L_nTrig_PerState.vi" Type="VI" URL="../BRig_dataExp_I_L_nTrig_PerState.vi"/>
 				<Item Name="BRig_dataExp_I_trialUntilReward.vi" Type="VI" URL="../BRig_dataExp_I_trialUntilReward.vi"/>
 				<Item Name="BRig_dataExp_init.vi" Type="VI" URL="../BRig_dataExp_init.vi"/>
 				<Item Name="BRig_dataExp_init_setDefault.vi" Type="VI" URL="../BRig_dataExp_init_setDefault.vi"/>
@@ -262,6 +263,10 @@
 				<Item Name="BRig_dataLC_Cue2_PostR_Delay_l2.vi" Type="VI" URL="../BRig_dataLC_Cue2_PostR_Delay_l2.vi"/>
 				<Item Name="BRig_dataLC_Cue2_PostR_DelayOpt_l1.vi" Type="VI" URL="../BRig_dataLC_Cue2_PostR_DelayOpt_l1.vi"/>
 				<Item Name="BRig_dataLC_Cue2_PostR_DelayOpt_l2.vi" Type="VI" URL="../BRig_dataLC_Cue2_PostR_DelayOpt_l2.vi"/>
+				<Item Name="BRig_dataLC_Cue2_PostR_nRew1_l1.vi" Type="VI" URL="../BRig_dataLC_Cue2_PostR_nRew1_l1.vi"/>
+				<Item Name="BRig_dataLC_Cue2_PostR_nRew1_l2.vi" Type="VI" URL="../BRig_dataLC_Cue2_PostR_nRew1_l2.vi"/>
+				<Item Name="BRig_dataLC_Cue2_PostR_nRew2_l1.vi" Type="VI" URL="../BRig_dataLC_Cue2_PostR_nRew2_l1.vi"/>
+				<Item Name="BRig_dataLC_Cue2_PostR_nRew2_l2.vi" Type="VI" URL="../BRig_dataLC_Cue2_PostR_nRew2_l2.vi"/>
 				<Item Name="BRig_dataLC_Cue2_PostR_OnOff_l1.vi" Type="VI" URL="../BRig_dataLC_Cue2_PostR_OnOff_l1.vi"/>
 				<Item Name="BRig_dataLC_Cue2_PostR_OnOff_l2.vi" Type="VI" URL="../BRig_dataLC_Cue2_PostR_OnOff_l2.vi"/>
 				<Item Name="BRig_dataLC_Cue2_PostR_Prob_l1.vi" Type="VI" URL="../BRig_dataLC_Cue2_PostR_Prob_l1.vi"/>
@@ -298,6 +303,10 @@
 				<Item Name="BRig_dataLC_Cue_PostR_Delay_l2.vi" Type="VI" URL="../BRig_dataLC_Cue_PostR_Delay_l2.vi"/>
 				<Item Name="BRig_dataLC_Cue_PostR_DelayOpt_l1.vi" Type="VI" URL="../BRig_dataLC_Cue_PostR_DelayOpt_l1.vi"/>
 				<Item Name="BRig_dataLC_Cue_PostR_DelayOpt_l2.vi" Type="VI" URL="../BRig_dataLC_Cue_PostR_DelayOpt_l2.vi"/>
+				<Item Name="BRig_dataLC_Cue_PostR_nRew1_l1.vi" Type="VI" URL="../BRig_dataLC_Cue_PostR_nRew1_l1.vi"/>
+				<Item Name="BRig_dataLC_Cue_PostR_nRew1_l2.vi" Type="VI" URL="../BRig_dataLC_Cue_PostR_nRew1_l2.vi"/>
+				<Item Name="BRig_dataLC_Cue_PostR_nRew2_l1.vi" Type="VI" URL="../BRig_dataLC_Cue_PostR_nRew2_l1.vi"/>
+				<Item Name="BRig_dataLC_Cue_PostR_nRew2_l2.vi" Type="VI" URL="../BRig_dataLC_Cue_PostR_nRew2_l2.vi"/>
 				<Item Name="BRig_dataLC_Cue_PostR_OnOff_l1.vi" Type="VI" URL="../BRig_dataLC_Cue_PostR_OnOff_l1.vi"/>
 				<Item Name="BRig_dataLC_Cue_PostR_OnOff_l2.vi" Type="VI" URL="../BRig_dataLC_Cue_PostR_OnOff_l2.vi"/>
 				<Item Name="BRig_dataLC_Cue_PostR_Prob_l1.vi" Type="VI" URL="../BRig_dataLC_Cue_PostR_Prob_l1.vi"/>
@@ -334,6 +343,10 @@
 				<Item Name="BRig_dataLC_ENL2_PostR_Delay_l2.vi" Type="VI" URL="../BRig_dataLC_ENL2_PostR_Delay_l2.vi"/>
 				<Item Name="BRig_dataLC_ENL2_PostR_DelayOpt_l1.vi" Type="VI" URL="../BRig_dataLC_ENL2_PostR_DelayOpt_l1.vi"/>
 				<Item Name="BRig_dataLC_ENL2_PostR_DelayOpt_l2.vi" Type="VI" URL="../BRig_dataLC_ENL2_PostR_DelayOpt_l2.vi"/>
+				<Item Name="BRig_dataLC_ENL2_PostR_nRew1_l1.vi" Type="VI" URL="../BRig_dataLC_ENL2_PostR_nRew1_l1.vi"/>
+				<Item Name="BRig_dataLC_ENL2_PostR_nRew1_l2.vi" Type="VI" URL="../BRig_dataLC_ENL2_PostR_nRew1_l2.vi"/>
+				<Item Name="BRig_dataLC_ENL2_PostR_nRew2_l1.vi" Type="VI" URL="../BRig_dataLC_ENL2_PostR_nRew2_l1.vi"/>
+				<Item Name="BRig_dataLC_ENL2_PostR_nRew2_l2.vi" Type="VI" URL="../BRig_dataLC_ENL2_PostR_nRew2_l2.vi"/>
 				<Item Name="BRig_dataLC_ENL2_PostR_OnOff_l1.vi" Type="VI" URL="../BRig_dataLC_ENL2_PostR_OnOff_l1.vi"/>
 				<Item Name="BRig_dataLC_ENL2_PostR_OnOff_l2.vi" Type="VI" URL="../BRig_dataLC_ENL2_PostR_OnOff_l2.vi"/>
 				<Item Name="BRig_dataLC_ENL2_PostR_Prob_l1.vi" Type="VI" URL="../BRig_dataLC_ENL2_PostR_Prob_l1.vi"/>
@@ -370,6 +383,10 @@
 				<Item Name="BRig_dataLC_ENL_PostR_Delay_l2.vi" Type="VI" URL="../BRig_dataLC_ENL_PostR_Delay_l2.vi"/>
 				<Item Name="BRig_dataLC_ENL_PostR_DelayOpt_l1.vi" Type="VI" URL="../BRig_dataLC_ENL_PostR_DelayOpt_l1.vi"/>
 				<Item Name="BRig_dataLC_ENL_PostR_DelayOpt_l2.vi" Type="VI" URL="../BRig_dataLC_ENL_PostR_DelayOpt_l2.vi"/>
+				<Item Name="BRig_dataLC_ENL_PostR_nRew1_l1.vi" Type="VI" URL="../BRig_dataLC_ENL_PostR_nRew1_l1.vi"/>
+				<Item Name="BRig_dataLC_ENL_PostR_nRew1_l2.vi" Type="VI" URL="../BRig_dataLC_ENL_PostR_nRew1_l2.vi"/>
+				<Item Name="BRig_dataLC_ENL_PostR_nRew2_l1.vi" Type="VI" URL="../BRig_dataLC_ENL_PostR_nRew2_l1.vi"/>
+				<Item Name="BRig_dataLC_ENL_PostR_nRew2_l2.vi" Type="VI" URL="../BRig_dataLC_ENL_PostR_nRew2_l2.vi"/>
 				<Item Name="BRig_dataLC_ENL_PostR_OnOff_l1.vi" Type="VI" URL="../BRig_dataLC_ENL_PostR_OnOff_l1.vi"/>
 				<Item Name="BRig_dataLC_ENL_PostR_OnOff_l2.vi" Type="VI" URL="../BRig_dataLC_ENL_PostR_OnOff_l2.vi"/>
 				<Item Name="BRig_dataLC_ENL_PostR_Prob_l1.vi" Type="VI" URL="../BRig_dataLC_ENL_PostR_Prob_l1.vi"/>
@@ -418,6 +435,10 @@
 				<Item Name="BRig_dataLC_Selection_PostR_Count_l2.vi" Type="VI" URL="../BRig_dataLC_Selection_PostR_Count_l2.vi"/>
 				<Item Name="BRig_dataLC_Selection_PostR_Delay_l1.vi" Type="VI" URL="../BRig_dataLC_Selection_PostR_Delay_l1.vi"/>
 				<Item Name="BRig_dataLC_Selection_PostR_Delay_l2.vi" Type="VI" URL="../BRig_dataLC_Selection_PostR_Delay_l2.vi"/>
+				<Item Name="BRig_dataLC_Selection_PostR_nRew1_l1.vi" Type="VI" URL="../BRig_dataLC_Selection_PostR_nRew1_l1.vi"/>
+				<Item Name="BRig_dataLC_Selection_PostR_nRew1_l2.vi" Type="VI" URL="../BRig_dataLC_Selection_PostR_nRew1_l2.vi"/>
+				<Item Name="BRig_dataLC_Selection_PostR_nRew2_l1.vi" Type="VI" URL="../BRig_dataLC_Selection_PostR_nRew2_l1.vi"/>
+				<Item Name="BRig_dataLC_Selection_PostR_nRew2_l2.vi" Type="VI" URL="../BRig_dataLC_Selection_PostR_nRew2_l2.vi"/>
 				<Item Name="BRig_dataLC_Selection_PostR_OnOff_l1.vi" Type="VI" URL="../BRig_dataLC_Selection_PostR_OnOff_l1.vi"/>
 				<Item Name="BRig_dataLC_Selection_PostR_OnOff_l2.vi" Type="VI" URL="../BRig_dataLC_Selection_PostR_OnOff_l2.vi"/>
 				<Item Name="BRig_dataLC_Selection_PostR_Prob_l1.vi" Type="VI" URL="../BRig_dataLC_Selection_PostR_Prob_l1.vi"/>
@@ -1012,6 +1033,7 @@ AddOutputFilter chunkFilter
 				<Item Name="BRig_RT__Case_Exp__State_ENL__v3.vi" Type="VI" URL="../BRig_RT__Case_Exp__State_ENL__v3.vi"/>
 				<Item Name="BRig_RT__Case_Exp__State_ENLPre.vi" Type="VI" URL="../BRig_RT__Case_Exp__State_ENLPre.vi"/>
 				<Item Name="BRig_RT__Case_Exp__State_ENLPre__v3.vi" Type="VI" URL="../BRig_RT__Case_Exp__State_ENLPre__v3.vi"/>
+				<Item Name="BRig_RT__Case_Exp__State_ENLPre__v4.vi" Type="VI" URL="../BRig_RT__Case_Exp__State_ENLPre__v4.vi"/>
 				<Item Name="BRig_RT__Case_Exp__State_initBlock.vi" Type="VI" URL="../BRig_RT__Case_Exp__State_initBlock.vi"/>
 				<Item Name="BRig_RT__Case_Exp__State_initTrial.vi" Type="VI" URL="../BRig_RT__Case_Exp__State_initTrial.vi"/>
 				<Item Name="BRig_RT__Case_Exp__State_initTrial2.vi" Type="VI" URL="../BRig_RT__Case_Exp__State_initTrial2.vi"/>
@@ -1022,9 +1044,13 @@ AddOutputFilter chunkFilter
 				<Item Name="BRig_RT__Case_Exp__State_initTrial4.vi" Type="VI" URL="../BRig_RT__Case_Exp__State_initTrial4.vi"/>
 				<Item Name="BRig_RT__Case_Exp__State_initTrial__LC.vi" Type="VI" URL="../BRig_RT__Case_Exp__State_initTrial__LC.vi"/>
 				<Item Name="BRig_RT__Case_Exp__State_initTrial__LC_Cue.vi" Type="VI" URL="../BRig_RT__Case_Exp__State_initTrial__LC_Cue.vi"/>
+				<Item Name="BRig_RT__Case_Exp__State_initTrial__LC_Cue__v3.vi" Type="VI" URL="../BRig_RT__Case_Exp__State_initTrial__LC_Cue__v3.vi"/>
+				<Item Name="BRig_RT__Case_Exp__State_initTrial__LC_Cue__v4.vi" Type="VI" URL="../BRig_RT__Case_Exp__State_initTrial__LC_Cue__v4.vi"/>
 				<Item Name="BRig_RT__Case_Exp__State_initTrial__LC_ENL.vi" Type="VI" URL="../BRig_RT__Case_Exp__State_initTrial__LC_ENL.vi"/>
 				<Item Name="BRig_RT__Case_Exp__State_initTrial__LC_ENL__v3.vi" Type="VI" URL="../BRig_RT__Case_Exp__State_initTrial__LC_ENL__v3.vi"/>
+				<Item Name="BRig_RT__Case_Exp__State_initTrial__LC_ENL__v4.vi" Type="VI" URL="../BRig_RT__Case_Exp__State_initTrial__LC_ENL__v4.vi"/>
 				<Item Name="BRig_RT__Case_Exp__State_initTrial__LC_Select.vi" Type="VI" URL="../BRig_RT__Case_Exp__State_initTrial__LC_Select.vi"/>
+				<Item Name="BRig_RT__Case_Exp__State_initTrial__LC_Select__v4.vi" Type="VI" URL="../BRig_RT__Case_Exp__State_initTrial__LC_Select__v4.vi"/>
 				<Item Name="BRig_RT__Case_Exp__State_initTrial__v2.vi" Type="VI" URL="../BRig_RT__Case_Exp__State_initTrial__v2.vi"/>
 				<Item Name="BRig_RT__Case_Exp__State_initTrial__v3.vi" Type="VI" URL="../BRig_RT__Case_Exp__State_initTrial__v3.vi"/>
 				<Item Name="BRig_RT__Case_Exp__State_Reward.vi" Type="VI" URL="../BRig_RT__Case_Exp__State_Reward.vi"/>
@@ -1125,19 +1151,27 @@ AddOutputFilter chunkFilter
 				<Item Name="BRig_RT_panel_Laser1_v0,90.vi" Type="VI" URL="../BRig_RT_panel_Laser1_v0,90.vi"/>
 				<Item Name="BRig_RT_panel_Laser2_v0,90.vi" Type="VI" URL="../BRig_RT_panel_Laser2_v0,90.vi"/>
 			</Item>
+			<Item Name="BRig_RT_panel_cue_DAB_v1,10.vi" Type="VI" URL="../BRig_RT_panel_cue_DAB_v1,10.vi"/>
 			<Item Name="BRig_RT_panel_cue_v0,90.vi" Type="VI" URL="../BRig_RT_panel_cue_v0,90.vi"/>
 			<Item Name="BRig_RT_panel_cue_v1,10.vi" Type="VI" URL="../BRig_RT_panel_cue_v1,10.vi"/>
+			<Item Name="BRig_RT_panel_ExpStruct_DAB_v1,10.vi" Type="VI" URL="../BRig_RT_panel_ExpStruct_DAB_v1,10.vi"/>
 			<Item Name="BRig_RT_panel_ExpStruct_v0,96.vi" Type="VI" URL="../BRig_RT_panel_ExpStruct_v0,96.vi"/>
 			<Item Name="BRig_RT_panel_ExpStruct_v1,10.vi" Type="VI" URL="../BRig_RT_panel_ExpStruct_v1,10.vi"/>
+			<Item Name="BRig_RT_panel_ExpStruct_v1,11.vi" Type="VI" URL="../BRig_RT_panel_ExpStruct_v1,11.vi"/>
+			<Item Name="BRig_RT_panel_Laser1_DAB_v1,10.vi" Type="VI" URL="../BRig_RT_panel_Laser1_DAB_v1,10.vi"/>
 			<Item Name="BRig_RT_panel_Laser1_v0,902.vi" Type="VI" URL="../BRig_RT_panel_Laser1_v0,902.vi"/>
 			<Item Name="BRig_RT_panel_Laser1_v1,10.vi" Type="VI" URL="../BRig_RT_panel_Laser1_v1,10.vi"/>
+			<Item Name="BRig_RT_panel_Laser1_v1,11.vi" Type="VI" URL="../BRig_RT_panel_Laser1_v1,11.vi"/>
 			<Item Name="BRig_RT_panel_Laser2_v0,902.vi" Type="VI" URL="../BRig_RT_panel_Laser2_v0,902.vi"/>
+			<Item Name="BRig_RT_panel_Laser2_v1,10.vi" Type="VI" URL="../BRig_RT_panel_Laser2_v1,10.vi"/>
+			<Item Name="BRig_RT_panel_Laser2_v1,11.vi" Type="VI" URL="../BRig_RT_panel_Laser2_v1,11.vi"/>
 			<Item Name="BRig_RT_panel_manualTriggering_v0,90.vi" Type="VI" URL="../BRig_RT_panel_manualTriggering_v0,90.vi"/>
 		</Item>
-		<Item Name="BRig_RT__Case_Exp__State_initTrial__LC_Cue__v3.vi" Type="VI" URL="../BRig_RT__Case_Exp__State_initTrial__LC_Cue__v3.vi"/>
+		<Item Name="BRig_RT_start_DAB_v1,10__PortC.vi" Type="VI" URL="../BRig_RT_start_DAB_v1,10__PortC.vi"/>
 		<Item Name="BRig_RT_start_v1,07.vi" Type="VI" URL="../BRig_RT_start_v1,07.vi"/>
 		<Item Name="BRig_RT_start_v1,07__PortC.vi" Type="VI" URL="../BRig_RT_start_v1,07__PortC.vi"/>
 		<Item Name="BRig_RT_start_v1,10__PortC.vi" Type="VI" URL="../BRig_RT_start_v1,10__PortC.vi"/>
+		<Item Name="BRig_RT_start_v1,11__PortC.vi" Type="VI" URL="../BRig_RT_start_v1,11__PortC.vi"/>
 		<Item Name="Chassis" Type="myRIO Chassis">
 			<Property Name="crio.ProgrammingMode" Type="Str">fpga</Property>
 			<Property Name="crio.ResourceID" Type="Str">RIO0</Property>
@@ -3221,6 +3255,7 @@ AddOutputFilter chunkFilter
 			<Item Name="BRig_dataExp_FreeReward_Switch.vi" Type="VI" URL="../BRig_dataExp_FreeReward_Switch.vi"/>
 			<Item Name="BRig_dataExp_I_anySelect.vi" Type="VI" URL="../BRig_dataExp_I_anySelect.vi"/>
 			<Item Name="BRig_dataExp_I_Cue2.vi" Type="VI" URL="../BRig_dataExp_I_Cue2.vi"/>
+			<Item Name="BRig_dataExp_I_L_nTrig_PerState.vi" Type="VI" URL="../BRig_dataExp_I_L_nTrig_PerState.vi"/>
 			<Item Name="BRig_dataExp_I_trialUntilReward.vi" Type="VI" URL="../BRig_dataExp_I_trialUntilReward.vi"/>
 			<Item Name="BRig_dataExp_init.vi" Type="VI" URL="../BRig_dataExp_init.vi"/>
 			<Item Name="BRig_dataExp_init_setDefault.vi" Type="VI" URL="../BRig_dataExp_init_setDefault.vi"/>
@@ -3286,23 +3321,45 @@ AddOutputFilter chunkFilter
 			<Item Name="BRig_dataExp_TPB_min_L.vi" Type="VI" URL="../BRig_dataExp_TPB_min_L.vi"/>
 			<Item Name="BRig_dataExp_TPB_min_R.vi" Type="VI" URL="../BRig_dataExp_TPB_min_R.vi"/>
 			<Item Name="BRig_dataLC_Cue2_First_Block_l1.vi" Type="VI" URL="../BRig_dataLC_Cue2_First_Block_l1.vi"/>
+			<Item Name="BRig_dataLC_Cue2_First_Block_l2.vi" Type="VI" URL="../BRig_dataLC_Cue2_First_Block_l2.vi"/>
 			<Item Name="BRig_dataLC_Cue2_First_Count_l1.vi" Type="VI" URL="../BRig_dataLC_Cue2_First_Count_l1.vi"/>
+			<Item Name="BRig_dataLC_Cue2_First_Count_l2.vi" Type="VI" URL="../BRig_dataLC_Cue2_First_Count_l2.vi"/>
 			<Item Name="BRig_dataLC_Cue2_First_Delay_l1.vi" Type="VI" URL="../BRig_dataLC_Cue2_First_Delay_l1.vi"/>
+			<Item Name="BRig_dataLC_Cue2_First_Delay_l2.vi" Type="VI" URL="../BRig_dataLC_Cue2_First_Delay_l2.vi"/>
 			<Item Name="BRig_dataLC_Cue2_First_DelayOpt_l1.vi" Type="VI" URL="../BRig_dataLC_Cue2_First_DelayOpt_l1.vi"/>
+			<Item Name="BRig_dataLC_Cue2_First_DelayOpt_l2.vi" Type="VI" URL="../BRig_dataLC_Cue2_First_DelayOpt_l2.vi"/>
 			<Item Name="BRig_dataLC_Cue2_First_OnOff_l1.vi" Type="VI" URL="../BRig_dataLC_Cue2_First_OnOff_l1.vi"/>
+			<Item Name="BRig_dataLC_Cue2_First_OnOff_l2.vi" Type="VI" URL="../BRig_dataLC_Cue2_First_OnOff_l2.vi"/>
 			<Item Name="BRig_dataLC_Cue2_First_Prob_l1.vi" Type="VI" URL="../BRig_dataLC_Cue2_First_Prob_l1.vi"/>
+			<Item Name="BRig_dataLC_Cue2_First_Prob_l2.vi" Type="VI" URL="../BRig_dataLC_Cue2_First_Prob_l2.vi"/>
 			<Item Name="BRig_dataLC_Cue2_PostR_Block_l1.vi" Type="VI" URL="../BRig_dataLC_Cue2_PostR_Block_l1.vi"/>
+			<Item Name="BRig_dataLC_Cue2_PostR_Block_l2.vi" Type="VI" URL="../BRig_dataLC_Cue2_PostR_Block_l2.vi"/>
 			<Item Name="BRig_dataLC_Cue2_PostR_Count_l1.vi" Type="VI" URL="../BRig_dataLC_Cue2_PostR_Count_l1.vi"/>
+			<Item Name="BRig_dataLC_Cue2_PostR_Count_l2.vi" Type="VI" URL="../BRig_dataLC_Cue2_PostR_Count_l2.vi"/>
 			<Item Name="BRig_dataLC_Cue2_PostR_Delay_l1.vi" Type="VI" URL="../BRig_dataLC_Cue2_PostR_Delay_l1.vi"/>
+			<Item Name="BRig_dataLC_Cue2_PostR_Delay_l2.vi" Type="VI" URL="../BRig_dataLC_Cue2_PostR_Delay_l2.vi"/>
 			<Item Name="BRig_dataLC_Cue2_PostR_DelayOpt_l1.vi" Type="VI" URL="../BRig_dataLC_Cue2_PostR_DelayOpt_l1.vi"/>
+			<Item Name="BRig_dataLC_Cue2_PostR_DelayOpt_l2.vi" Type="VI" URL="../BRig_dataLC_Cue2_PostR_DelayOpt_l2.vi"/>
+			<Item Name="BRig_dataLC_Cue2_PostR_nRew1_l1.vi" Type="VI" URL="../BRig_dataLC_Cue2_PostR_nRew1_l1.vi"/>
+			<Item Name="BRig_dataLC_Cue2_PostR_nRew1_l2.vi" Type="VI" URL="../BRig_dataLC_Cue2_PostR_nRew1_l2.vi"/>
+			<Item Name="BRig_dataLC_Cue2_PostR_nRew2_l1.vi" Type="VI" URL="../BRig_dataLC_Cue2_PostR_nRew2_l1.vi"/>
+			<Item Name="BRig_dataLC_Cue2_PostR_nRew2_l2.vi" Type="VI" URL="../BRig_dataLC_Cue2_PostR_nRew2_l2.vi"/>
 			<Item Name="BRig_dataLC_Cue2_PostR_OnOff_l1.vi" Type="VI" URL="../BRig_dataLC_Cue2_PostR_OnOff_l1.vi"/>
+			<Item Name="BRig_dataLC_Cue2_PostR_OnOff_l2.vi" Type="VI" URL="../BRig_dataLC_Cue2_PostR_OnOff_l2.vi"/>
 			<Item Name="BRig_dataLC_Cue2_PostR_Prob_l1.vi" Type="VI" URL="../BRig_dataLC_Cue2_PostR_Prob_l1.vi"/>
+			<Item Name="BRig_dataLC_Cue2_PostR_Prob_l2.vi" Type="VI" URL="../BRig_dataLC_Cue2_PostR_Prob_l2.vi"/>
 			<Item Name="BRig_dataLC_Cue2_PreR_Block_l1.vi" Type="VI" URL="../BRig_dataLC_Cue2_PreR_Block_l1.vi"/>
+			<Item Name="BRig_dataLC_Cue2_PreR_Block_l2.vi" Type="VI" URL="../BRig_dataLC_Cue2_PreR_Block_l2.vi"/>
 			<Item Name="BRig_dataLC_Cue2_PreR_Count_l1.vi" Type="VI" URL="../BRig_dataLC_Cue2_PreR_Count_l1.vi"/>
+			<Item Name="BRig_dataLC_Cue2_PreR_Count_l2.vi" Type="VI" URL="../BRig_dataLC_Cue2_PreR_Count_l2.vi"/>
 			<Item Name="BRig_dataLC_Cue2_PreR_Delay_l1.vi" Type="VI" URL="../BRig_dataLC_Cue2_PreR_Delay_l1.vi"/>
+			<Item Name="BRig_dataLC_Cue2_PreR_Delay_l2.vi" Type="VI" URL="../BRig_dataLC_Cue2_PreR_Delay_l2.vi"/>
 			<Item Name="BRig_dataLC_Cue2_PreR_DelayOpt_l1.vi" Type="VI" URL="../BRig_dataLC_Cue2_PreR_DelayOpt_l1.vi"/>
+			<Item Name="BRig_dataLC_Cue2_PreR_DelayOpt_l2.vi" Type="VI" URL="../BRig_dataLC_Cue2_PreR_DelayOpt_l2.vi"/>
 			<Item Name="BRig_dataLC_Cue2_PreR_OnOff_l1.vi" Type="VI" URL="../BRig_dataLC_Cue2_PreR_OnOff_l1.vi"/>
+			<Item Name="BRig_dataLC_Cue2_PreR_OnOff_l2.vi" Type="VI" URL="../BRig_dataLC_Cue2_PreR_OnOff_l2.vi"/>
 			<Item Name="BRig_dataLC_Cue2_PreR_Prob_l1.vi" Type="VI" URL="../BRig_dataLC_Cue2_PreR_Prob_l1.vi"/>
+			<Item Name="BRig_dataLC_Cue2_PreR_Prob_l2.vi" Type="VI" URL="../BRig_dataLC_Cue2_PreR_Prob_l2.vi"/>
 			<Item Name="BRig_dataLC_Cue_First_Block_l1.vi" Type="VI" URL="../BRig_dataLC_Cue_First_Block_l1.vi"/>
 			<Item Name="BRig_dataLC_Cue_First_Block_l2.vi" Type="VI" URL="../BRig_dataLC_Cue_First_Block_l2.vi"/>
 			<Item Name="BRig_dataLC_Cue_First_Count_l1.vi" Type="VI" URL="../BRig_dataLC_Cue_First_Count_l1.vi"/>
@@ -3323,6 +3380,10 @@ AddOutputFilter chunkFilter
 			<Item Name="BRig_dataLC_Cue_PostR_Delay_l2.vi" Type="VI" URL="../BRig_dataLC_Cue_PostR_Delay_l2.vi"/>
 			<Item Name="BRig_dataLC_Cue_PostR_DelayOpt_l1.vi" Type="VI" URL="../BRig_dataLC_Cue_PostR_DelayOpt_l1.vi"/>
 			<Item Name="BRig_dataLC_Cue_PostR_DelayOpt_l2.vi" Type="VI" URL="../BRig_dataLC_Cue_PostR_DelayOpt_l2.vi"/>
+			<Item Name="BRig_dataLC_Cue_PostR_nRew1_l1.vi" Type="VI" URL="../BRig_dataLC_Cue_PostR_nRew1_l1.vi"/>
+			<Item Name="BRig_dataLC_Cue_PostR_nRew1_l2.vi" Type="VI" URL="../BRig_dataLC_Cue_PostR_nRew1_l2.vi"/>
+			<Item Name="BRig_dataLC_Cue_PostR_nRew2_l1.vi" Type="VI" URL="../BRig_dataLC_Cue_PostR_nRew2_l1.vi"/>
+			<Item Name="BRig_dataLC_Cue_PostR_nRew2_l2.vi" Type="VI" URL="../BRig_dataLC_Cue_PostR_nRew2_l2.vi"/>
 			<Item Name="BRig_dataLC_Cue_PostR_OnOff_l1.vi" Type="VI" URL="../BRig_dataLC_Cue_PostR_OnOff_l1.vi"/>
 			<Item Name="BRig_dataLC_Cue_PostR_OnOff_l2.vi" Type="VI" URL="../BRig_dataLC_Cue_PostR_OnOff_l2.vi"/>
 			<Item Name="BRig_dataLC_Cue_PostR_Prob_l1.vi" Type="VI" URL="../BRig_dataLC_Cue_PostR_Prob_l1.vi"/>
@@ -3359,6 +3420,10 @@ AddOutputFilter chunkFilter
 			<Item Name="BRig_dataLC_ENL2_PostR_Delay_l2.vi" Type="VI" URL="../BRig_dataLC_ENL2_PostR_Delay_l2.vi"/>
 			<Item Name="BRig_dataLC_ENL2_PostR_DelayOpt_l1.vi" Type="VI" URL="../BRig_dataLC_ENL2_PostR_DelayOpt_l1.vi"/>
 			<Item Name="BRig_dataLC_ENL2_PostR_DelayOpt_l2.vi" Type="VI" URL="../BRig_dataLC_ENL2_PostR_DelayOpt_l2.vi"/>
+			<Item Name="BRig_dataLC_ENL2_PostR_nRew1_l1.vi" Type="VI" URL="../BRig_dataLC_ENL2_PostR_nRew1_l1.vi"/>
+			<Item Name="BRig_dataLC_ENL2_PostR_nRew1_l2.vi" Type="VI" URL="../BRig_dataLC_ENL2_PostR_nRew1_l2.vi"/>
+			<Item Name="BRig_dataLC_ENL2_PostR_nRew2_l1.vi" Type="VI" URL="../BRig_dataLC_ENL2_PostR_nRew2_l1.vi"/>
+			<Item Name="BRig_dataLC_ENL2_PostR_nRew2_l2.vi" Type="VI" URL="../BRig_dataLC_ENL2_PostR_nRew2_l2.vi"/>
 			<Item Name="BRig_dataLC_ENL2_PostR_OnOff_l1.vi" Type="VI" URL="../BRig_dataLC_ENL2_PostR_OnOff_l1.vi"/>
 			<Item Name="BRig_dataLC_ENL2_PostR_OnOff_l2.vi" Type="VI" URL="../BRig_dataLC_ENL2_PostR_OnOff_l2.vi"/>
 			<Item Name="BRig_dataLC_ENL2_PostR_Prob_l1.vi" Type="VI" URL="../BRig_dataLC_ENL2_PostR_Prob_l1.vi"/>
@@ -3395,6 +3460,10 @@ AddOutputFilter chunkFilter
 			<Item Name="BRig_dataLC_ENL_PostR_Delay_l2.vi" Type="VI" URL="../BRig_dataLC_ENL_PostR_Delay_l2.vi"/>
 			<Item Name="BRig_dataLC_ENL_PostR_DelayOpt_l1.vi" Type="VI" URL="../BRig_dataLC_ENL_PostR_DelayOpt_l1.vi"/>
 			<Item Name="BRig_dataLC_ENL_PostR_DelayOpt_l2.vi" Type="VI" URL="../BRig_dataLC_ENL_PostR_DelayOpt_l2.vi"/>
+			<Item Name="BRig_dataLC_ENL_PostR_nRew1_l1.vi" Type="VI" URL="../BRig_dataLC_ENL_PostR_nRew1_l1.vi"/>
+			<Item Name="BRig_dataLC_ENL_PostR_nRew1_l2.vi" Type="VI" URL="../BRig_dataLC_ENL_PostR_nRew1_l2.vi"/>
+			<Item Name="BRig_dataLC_ENL_PostR_nRew2_l1.vi" Type="VI" URL="../BRig_dataLC_ENL_PostR_nRew2_l1.vi"/>
+			<Item Name="BRig_dataLC_ENL_PostR_nRew2_l2.vi" Type="VI" URL="../BRig_dataLC_ENL_PostR_nRew2_l2.vi"/>
 			<Item Name="BRig_dataLC_ENL_PostR_OnOff_l1.vi" Type="VI" URL="../BRig_dataLC_ENL_PostR_OnOff_l1.vi"/>
 			<Item Name="BRig_dataLC_ENL_PostR_OnOff_l2.vi" Type="VI" URL="../BRig_dataLC_ENL_PostR_OnOff_l2.vi"/>
 			<Item Name="BRig_dataLC_ENL_PostR_Prob_l1.vi" Type="VI" URL="../BRig_dataLC_ENL_PostR_Prob_l1.vi"/>
@@ -3443,6 +3512,10 @@ AddOutputFilter chunkFilter
 			<Item Name="BRig_dataLC_Selection_PostR_Count_l2.vi" Type="VI" URL="../BRig_dataLC_Selection_PostR_Count_l2.vi"/>
 			<Item Name="BRig_dataLC_Selection_PostR_Delay_l1.vi" Type="VI" URL="../BRig_dataLC_Selection_PostR_Delay_l1.vi"/>
 			<Item Name="BRig_dataLC_Selection_PostR_Delay_l2.vi" Type="VI" URL="../BRig_dataLC_Selection_PostR_Delay_l2.vi"/>
+			<Item Name="BRig_dataLC_Selection_PostR_nRew1_l1.vi" Type="VI" URL="../BRig_dataLC_Selection_PostR_nRew1_l1.vi"/>
+			<Item Name="BRig_dataLC_Selection_PostR_nRew1_l2.vi" Type="VI" URL="../BRig_dataLC_Selection_PostR_nRew1_l2.vi"/>
+			<Item Name="BRig_dataLC_Selection_PostR_nRew2_l1.vi" Type="VI" URL="../BRig_dataLC_Selection_PostR_nRew2_l1.vi"/>
+			<Item Name="BRig_dataLC_Selection_PostR_nRew2_l2.vi" Type="VI" URL="../BRig_dataLC_Selection_PostR_nRew2_l2.vi"/>
 			<Item Name="BRig_dataLC_Selection_PostR_OnOff_l1.vi" Type="VI" URL="../BRig_dataLC_Selection_PostR_OnOff_l1.vi"/>
 			<Item Name="BRig_dataLC_Selection_PostR_OnOff_l2.vi" Type="VI" URL="../BRig_dataLC_Selection_PostR_OnOff_l2.vi"/>
 			<Item Name="BRig_dataLC_Selection_PostR_Prob_l1.vi" Type="VI" URL="../BRig_dataLC_Selection_PostR_Prob_l1.vi"/>
@@ -3528,8 +3601,12 @@ AddOutputFilter chunkFilter
 			<Item Name="BRig_dataTrial_iSpout.vi" Type="VI" URL="../BRig_dataTrial_iSpout.vi"/>
 			<Item Name="BRig_dataTrial_iTrial.vi" Type="VI" URL="../BRig_dataTrial_iTrial.vi"/>
 			<Item Name="BRig_dataTrial_iTrial_PostR.vi" Type="VI" URL="../BRig_dataTrial_iTrial_PostR.vi"/>
+			<Item Name="BRig_dataTrial_L_Cue2_event_I_l1.vi" Type="VI" URL="../BRig_dataTrial_L_Cue2_event_I_l1.vi"/>
+			<Item Name="BRig_dataTrial_L_Cue2_event_I_l2.vi" Type="VI" URL="../BRig_dataTrial_L_Cue2_event_I_l2.vi"/>
 			<Item Name="BRig_dataTrial_L_Cue2_event_n_l1.vi" Type="VI" URL="../BRig_dataTrial_L_Cue2_event_n_l1.vi"/>
 			<Item Name="BRig_dataTrial_L_Cue2_event_n_l2.vi" Type="VI" URL="../BRig_dataTrial_L_Cue2_event_n_l2.vi"/>
+			<Item Name="BRig_dataTrial_L_Cue2_trig_I_l1.vi" Type="VI" URL="../BRig_dataTrial_L_Cue2_trig_I_l1.vi"/>
+			<Item Name="BRig_dataTrial_L_Cue2_trig_I_l2.vi" Type="VI" URL="../BRig_dataTrial_L_Cue2_trig_I_l2.vi"/>
 			<Item Name="BRig_dataTrial_L_Cue2_trig_n_l1.vi" Type="VI" URL="../BRig_dataTrial_L_Cue2_trig_n_l1.vi"/>
 			<Item Name="BRig_dataTrial_L_Cue2_trig_n_l2.vi" Type="VI" URL="../BRig_dataTrial_L_Cue2_trig_n_l2.vi"/>
 			<Item Name="BRig_dataTrial_L_Cue_event_I_l1.vi" Type="VI" URL="../BRig_dataTrial_L_Cue_event_I_l1.vi"/>
