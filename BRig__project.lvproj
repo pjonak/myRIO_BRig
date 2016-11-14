@@ -3441,6 +3441,10 @@ AddOutputFilter chunkFilter
 			<Item Name="BRig_dataLC_Wrong_Block_l2.vi" Type="VI" URL="../BRig_dataLC_Wrong_Block_l2.vi"/>
 			<Item Name="BRig_dataLC_Wrong_Delay_l1.vi" Type="VI" URL="../BRig_dataLC_Wrong_Delay_l1.vi"/>
 			<Item Name="BRig_dataLC_Wrong_Delay_l2.vi" Type="VI" URL="../BRig_dataLC_Wrong_Delay_l2.vi"/>
+			<Item Name="BRig_dataLC_Wrong_nRew1_l1.vi" Type="VI" URL="../BRig_dataLC_Wrong_nRew1_l1.vi"/>
+			<Item Name="BRig_dataLC_Wrong_nRew1_l2.vi" Type="VI" URL="../BRig_dataLC_Wrong_nRew1_l2.vi"/>
+			<Item Name="BRig_dataLC_Wrong_nRew2_l1.vi" Type="VI" URL="../BRig_dataLC_Wrong_nRew2_l1.vi"/>
+			<Item Name="BRig_dataLC_Wrong_nRew2_l2.vi" Type="VI" URL="../BRig_dataLC_Wrong_nRew2_l2.vi"/>
 			<Item Name="BRig_dataLC_Wrong_OnOff_l1.vi" Type="VI" URL="../BRig_dataLC_Wrong_OnOff_l1.vi"/>
 			<Item Name="BRig_dataLC_Wrong_OnOff_l2.vi" Type="VI" URL="../BRig_dataLC_Wrong_OnOff_l2.vi"/>
 			<Item Name="BRig_dataLC_Wrong_Prob_l1.vi" Type="VI" URL="../BRig_dataLC_Wrong_Prob_l1.vi"/>
