@@ -32,3 +32,5 @@ Index,Tag,Header,Value Range,Description
 30,c_T2R_R,c_T2R_R,,
 31,c_BTPR_L,c_BTPR_L,,
 32,c_BTPR_R,c_BTPR_R,,
+33,DAB_nReward_HighProb,DAB_nReward_HighProb,,
+34,DAB_nReward_LowProb,DAB_nReward_LowProb,,
