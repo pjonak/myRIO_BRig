@@ -768,6 +768,7 @@
 				<Item Name="BRig_Host_dataRunState_typeSelResult_v3.vi" Type="VI" URL="../BRig_Host_dataRunState_typeSelResult_v3.vi"/>
 				<Item Name="BRig_Host_dataRunState_typeStart.vi" Type="VI" URL="../BRig_Host_dataRunState_typeStart.vi"/>
 				<Item Name="BRig_Host_dataRunState_typeStart_v2.vi" Type="VI" URL="../BRig_Host_dataRunState_typeStart_v2.vi"/>
+				<Item Name="BRig_Host_dataRunState_typeStart_v3.vi" Type="VI" URL="../BRig_Host_dataRunState_typeStart_v3.vi"/>
 			</Item>
 			<Item Name="Loop_Consumer" Type="Folder">
 				<Item Name="BRig_Host__Loop_Consumer_AnalogInput__parse.vi" Type="VI" URL="../BRig_Host__Loop_Consumer_AnalogInput__parse.vi"/>
@@ -869,7 +870,6 @@
 			<Item Name="test_HostWrite__Host.vi" Type="VI" URL="../test_HostWrite__Host.vi"/>
 			<Item Name="testWriteSpreadsheet.vi" Type="VI" URL="../testWriteSpreadsheet.vi"/>
 		</Item>
-		<Item Name="BRig_Host_dataRunState_typeStart_v3.vi" Type="VI" URL="../BRig_Host_dataRunState_typeStart_v3.vi"/>
 		<Item Name="BRig_Host_v0,53.vi" Type="VI" URL="../BRig_Host_v0,53.vi"/>
 		<Item Name="BRig_Host_v0,54.vi" Type="VI" URL="../BRig_Host_v0,54.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
@@ -1258,6 +1258,7 @@ AddOutputFilter chunkFilter
 		</Item>
 		<Item Name="BRig_RT_start_v1,12.vi" Type="VI" URL="../BRig_RT_start_v1,12.vi"/>
 		<Item Name="BRig_RT_start_v1,12__PortC.vi" Type="VI" URL="../BRig_RT_start_v1,12__PortC.vi"/>
+		<Item Name="BRig_RT_start_v1,13.vi" Type="VI" URL="../BRig_RT_start_v1,13.vi"/>
 		<Item Name="BRig_RT_start_v1,13__PortC.vi" Type="VI" URL="../BRig_RT_start_v1,13__PortC.vi"/>
 		<Item Name="Chassis" Type="myRIO Chassis">
 			<Property Name="crio.ProgrammingMode" Type="Str">fpga</Property>
