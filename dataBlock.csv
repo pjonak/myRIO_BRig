@@ -34,3 +34,5 @@ Index,Tag,Header,Value Range,Description
 32,c_BTPR_R,c_BTPR_R,,
 33,DAB_nReward_HighProb,DAB_nReward_HighProb,,
 34,DAB_nReward_LowProb,DAB_nReward_LowProb,,
+35,Cue2_nTrial_HighProb,,,
+36,Cue2_nTrial_LowProb,,,
